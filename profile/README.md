@@ -1,6 +1,4 @@
-<img src="./verid-logo.webp" width="120" alt="Veridtools" />
-
-# Veridtools
+## <img src="./verid-logo.webp" style="vertical-align: sub" width="28" alt="Veridtools Logo" /> Verid
 
 Open source TypeScript tooling for **DMN** — the OMG standard for modeling business decisions.
 
@@ -17,6 +15,7 @@ Veridtools brings DMN to the JavaScript and TypeScript ecosystem.
 | Package | Description |
 |---------|-------------|
 | [`@veridtools/dmn-fixtures`](https://github.com/veridtools/dmn-fixtures) | Curated DMN test fixtures for JS/TS tooling — 31 groups, DMN 1.0-1.5 coverage |
+| [`@veridtools/dmn-diff`](https://github.com/veridtools/dmn-diff) | Semantic diff for DMN files — ID-based matching, severity classification (breaking / non-breaking / cosmetic), CI/CD-native output formats |
 
 ### In development
 

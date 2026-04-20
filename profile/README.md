@@ -1,4 +1,4 @@
-## <img src="./verid-logo.webp" style="vertical-align: sub" width="28" alt="Veridtools Logo" /> Verid
+<h1 align="center"><img src="./verid-logo.webp" width="44" alt="Veridtools Logo" /> <p>Verid</p></h1>
 
 Open source TypeScript tooling for **DMN** — the OMG standard for modeling business decisions.
 

@@ -70,4 +70,4 @@ If you're building DMN tooling in JS/TS and want to collaborate, [open a discuss
 
 ## License
 
-All Veridtools packages are MIT licensed unless otherwise noted in the individual package repository.
+All Verid packages are MIT licensed unless otherwise noted in the individual package repository.

@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./verid-logo.webp" width="75" alt="Veridtools Logo" /> <p>Verid</p></h1>
 
-Open source TypeScript tooling for **DMN** — the OMG standard for modeling business decisions.
+**[verid.tools](https://verid.tools)** · Open source TypeScript tooling for **DMN** — the OMG standard for modeling business decisions.
 
 Most business logic lives where it shouldn't: in `if/else` chains that only engineers can change, in spreadsheets that only analysts can read, in enterprise platforms that require Java stacks and migration projects.
 
@@ -22,7 +22,14 @@ Veridtools brings DMN to the JavaScript and TypeScript ecosystem.
 
 ### In development
 
-More TypeScript-native DMN tooling is on the way — parsers, runners, linters, editors. Watch this space or follow individual repos for release notifications.
+| Package | Description |
+|---------|-------------|
+| `@veridtools/dmn-parser` | Parse DMN files into typed ASTs — the foundation for everything else |
+| `@veridtools/dmn-runner` | Execute DMN decision tables and DRDs in pure TypeScript |
+| `@veridtools/dmn-lint` | Lint DMN models for structural issues, dead rules, and spec violations |
+| `@veridtools/dmn-editor` | Browser-native DMN editor components — framework-agnostic, no JVM |
+
+Watch individual repos for release notifications.
 
 ---
 
@@ -54,6 +61,7 @@ If you're building DMN tooling in JS/TS and want to collaborate, [open a discuss
 
 ## Stay in the loop
 
+- 🌐 Visit [verid.tools](https://verid.tools) — site source at [`veridtools/veridtools.github.io`](https://github.com/veridtools/veridtools.github.io)
 - ⭐ Star the repos you find useful
 - 👀 Watch for releases
 - 💬 Discuss at [github.com/orgs/veridtools/discussions](https://github.com/orgs/veridtools/discussions)

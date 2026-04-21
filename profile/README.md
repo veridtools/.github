@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./verid-logo.webp" width="75" alt="Veridtools Logo" /> <p>Verid</p></h1>
 
-**[verid.tools](https://verid.tools)** · Open source TypeScript tooling for **DMN** — the OMG standard for modeling business decisions.
+**[verid.tools](https://verid.tools)** · **[docs.verid.tools](https://docs.verid.tools)** · Open source TypeScript tooling for **DMN** — the OMG standard for modeling business decisions.
 
 Most business logic lives where it shouldn't: in `if/else` chains that only engineers can change, in spreadsheets that only analysts can read, in enterprise platforms that require Java stacks and migration projects.
 

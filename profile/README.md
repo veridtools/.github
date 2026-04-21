@@ -6,7 +6,7 @@ Most business logic lives where it shouldn't: in `if/else` chains that only engi
 
 DMN solves this — a clear, executable, standards-based way to model decisions. The tooling around it, however, has stayed stuck in the JVM world.
 
-Veridtools brings DMN to the JavaScript and TypeScript ecosystem.
+Verid brings DMN to the JavaScript and TypeScript ecosystem.
 
 ---
 

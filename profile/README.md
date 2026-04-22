@@ -16,7 +16,7 @@ Verid brings DMN to the JavaScript and TypeScript ecosystem.
 
 | Package | Description |
 |---------|-------------|
-| [`@veridtools/dmn-fixtures`](https://github.com/veridtools/dmn-fixtures) | Test fixtures for DMN and FEEL tooling — 764 DMN files + 416 JSON test cases, full DMN 1.1–1.5 and FEEL spec coverage |
+| [`@veridtools/dmn-fixtures`](https://github.com/veridtools/dmn-fixtures) | Test fixtures for DMN and FEEL tooling — 784 DMN files + 416 JSON test cases, full DMN 1.1–1.5 and FEEL spec coverage |
 | [`@veridtools/dmn-parser`](https://github.com/veridtools/dmn-parser) | Parse DMN files into typed ASTs — the foundation for everything else |
 | [`@veridtools/dmn-diff`](https://github.com/veridtools/dmn-diff) | Semantic diff for DMN files — ID-based identity, severity classification (breaking / non-breaking / cosmetic), four output formats, CI/CD-native exit codes |
 | [`@veridtools/dmn-diff-highlight`](https://github.com/veridtools/dmn-diff-highlight) | Visual highlighting for DMN diffs — plain JS and React exports, composable theme system |
